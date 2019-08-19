@@ -1,0 +1,15 @@
+{
+  "autoload": {
+    "classmap": [
+      "config",
+      "repos",
+      "repos/Login",
+      "repos/Edit",
+      "repos/SignUp"
+    ]
+  },
+  "require": {
+    "phpunit/phpunit": "8.*",
+    "ext-sqlite3": "*"
+  }
+}

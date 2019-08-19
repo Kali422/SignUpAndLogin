@@ -1,0 +1,141 @@
+#loginBox {
+    width: 400px;
+
+    background-color: black;
+    color:white;
+    margin: auto auto auto auto;
+    border-radius: 20px 20px 20px 20px;
+    text-align: center;
+}
+
+#header{
+    font-size: 30px;
+    text-align: center;
+    padding:20px;
+}
+
+.text
+{
+    padding: 5px 0px 5px 0px;
+    text-align: left;
+    padding-left: 75px;
+}
+
+#loginSubmit
+{
+    position: relative;
+    top:10px;
+}
+p
+{
+    text-align: center;
+}
+#error
+{
+    color:red;
+    padding:10px 0px 10px 0px;
+}
+
+#registerBox
+{
+    width: 400px;
+
+    background-color: black;
+    color:white;
+    margin: auto auto auto auto;
+    border-radius: 20px 20px 20px 20px;
+    text-align: center;
+}
+
+#signUpSubmit
+{
+    position: relative;
+    top:10px;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: lightgray;
+    width: 100%;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.topnav a:hover {
+    background: #ddd;
+}
+
+.side
+{
+    float:left;
+    width: 25%;
+    background-color: #e0e0e0;
+    padding: 20px;
+    margin:20px;
+}
+
+#center
+{
+    float:left;
+    width: 70%;
+
+}
+
+.centerContent
+{
+    background-color: #e0e0e0;
+    padding: 20px;
+    margin:20px;
+
+}
+
+.centerContentHeader
+{
+    font-size: 200%;
+    font-weight: bold;
+    padding: 10px;
+}
+.centerContentImage
+{
+    padding: 10px;
+}
+.centerContentText
+{
+    padding: 10px;
+}
+
+#content p
+{
+    text-align: left;
+}
+#logout
+{
+    position: absolute;
+    right: 30px;
+}
+
+#main
+{
+    min-height: 100%;
+    position: relative;
+}
+
+html, body
+{
+    height: 100%;
+    margin:0;
+    padding:0;
+}
+
+#account
+{
+    position: absolute;
+    right: 120px;
+}
